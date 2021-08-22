@@ -1,4 +1,4 @@
-# DAWI-Sesion04Inicio
+# DAWI-Sesion06Inicio
 ### CRUD de dos tablas relacionadas en JPA
 
 ## Autor ✒️
