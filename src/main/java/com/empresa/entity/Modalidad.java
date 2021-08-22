@@ -1,6 +1,5 @@
 package com.empresa.entity;
 
-import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
@@ -18,7 +17,6 @@ public class Modalidad {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column(name = "idmodalidad")
 	private int idModalidad;
 	private String nombre;
 	private int numHombres;
